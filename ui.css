@@ -1,0 +1,146 @@
+.container-sm{
+    height:100vh !important;
+    background-color: black;
+    border-radius: 20px;
+}
+.nav-bar{
+  position: relative;
+  top:60px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color:
+  red !important;
+  
+}
+btn btn-primary{
+    background-color: red !important;
+}
+/* .nav-link active{
+    position: relative;
+    left:-60px !important;
+} */
+.button{
+    background-color: orangered;
+    border-radius: 20px;
+    /* margin-left: -90px; */
+    position: relative;
+    left:-50px;
+    width: 200px !important;
+    border: none !important;
+    height:auto !important;
+}
+.collapse:not(.show){
+   background-color: #d8f2d9  !important; 
+    border: none !important;
+   
+}
+.bg-body-tertiary{
+    background-color:  #d8f2d9!important;
+}
+.nav{
+    margin-left: -80px !important;
+    position: relative;
+    left:-500px !important;
+    font-weight: bold;
+   
+}
+/* .collapse navbar-collapse ul li{
+    margin-left: -500px !important;
+} */
+ .section{
+    width:100%;
+    height:550px;
+    background-color:
+    #d8f2d9;
+    border-bottom: 20px;
+    margin-top: 60px;
+ }
+ h1{
+    margin-left: 40px;
+    margin-top: 40px;
+    letter-spacing: 1px;
+    font-weight: 300;
+ }
+ .button1{
+    background-color: black;
+    border-radius: 20px;
+    border:none !important;
+    margin-left: 30px;
+    position: relative;
+    top:36px;
+ }
+ .about{
+    font-size: small;
+    margin-left: 170px;
+    margin-top: -2px;
+ }
+ .left{
+    border-radius: 20px;
+    width: 300px;
+    height: 219px;
+    background-color: white;
+    margin-left: 850px;
+    margin-top: -224px;
+}
+.top{
+   
+    border-bottom: 2px solid gray;
+}
+h5{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.circle{
+    width:100px;
+    height:60px;
+    border-radius: 40%;
+    margin-left: 190px;
+    margin-top: -90px;
+}
+.section2{
+    display: flex;
+ /* justify-content: space-around; */
+  width:800px;
+  
+
+}
+.div1{
+    background-color: white;
+    margin-left: 60px;
+    margin-top: 30px;
+    width:300px;
+    border-radius: 20px;
+}
+.div2{
+    width:300px;
+    height:200px;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.man{
+    width:300px;
+    height:200px;
+    border-radius: 20px;
+    margin-left: 1px;
+}
+.but{
+   position: relative;
+   left:840px;
+   top:-190px;
+}
+.but1{
+    position: relative;
+    left:860px;
+    top:-190px;
+ }
+ .but2{
+    position: relative;
+    left:530px;
+    top:-120px;
+ }
+ .but3{
+    position: relative;
+    left:540px;
+    top:-120px;
+ }
